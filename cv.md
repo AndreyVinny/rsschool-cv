@@ -37,3 +37,7 @@ getMiddle("A");
   - itGitInfo (JS v2.0)
   - htmlacademy
   - skillup (JavaScript)
+### Languages
+* English - Intermediate
+* Ukrainian - Native
+* Russian - Native
