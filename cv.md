@@ -13,3 +13,18 @@ I am beginner in front end development. I am 28 old. I live in Kiev. Finished co
 - Gulp
 - Bootstrap
 - Figma
+### Code Example
+```
+function getMiddle(s) {
+  if (s.length % 2 == 0) {
+    return s.slice(s.length/2  - 1 , s.length/2 + 1)
+   }
+   else   {
+     return s.slice(s.length / 2, s.length / 2+1)
+   }
+ }
+getMiddle("test");
+getMiddle("testing");
+getMiddle("middle");
+getMiddle("A");
+```
