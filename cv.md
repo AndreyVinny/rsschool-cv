@@ -29,8 +29,8 @@ getMiddle("middle");
 getMiddle("A");
 ```
 ### Experience
-- Allbirts (  HTML, SASS, JS,) - https://github.com/AndreyVinny/Allbirts
-- Boosted (HTML, SASS, JS) - https://github.com/AndreyVinny/Boosted
+- [Allbirts (HTML, SASS, JS,)](https://github.com/AndreyVinny/Allbirts)
+- [Boosted (HTML, SASS, JS)](https://github.com/AndreyVinny/Boosted)
 ### Education
 - __University:__ Kiev of low
 - __Courses:__
